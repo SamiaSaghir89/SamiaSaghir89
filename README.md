@@ -16,7 +16,7 @@
 </div>
 <h2 align="center">Languages / Frameworks / Tools</h2>
 
-<hr/>
+
 <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
