@@ -2,7 +2,7 @@
 <h1>Hey there, I'm Samia Saghir 👋</h1>
 </div
 <div >
-<h2 align="center">Front-end Developer 💻  👋</h2>
+<h2 align="center">Front-end Developer 💻  </h2>
 
 <div>
 <h1>About Me😎</h1>
